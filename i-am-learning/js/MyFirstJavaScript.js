@@ -55,6 +55,7 @@ while (scoops >= 0) {
 alert("life withou ice cream isn`t the same");*/
 
 //====
+// Палиндром "a man a plan a canal panama"
 
 var word1 = "a";
 var word2 = "nam";
@@ -79,3 +80,5 @@ for (var i = 0; i < 4; i++) {
 }
 
 alert(phrase);
+
+//====

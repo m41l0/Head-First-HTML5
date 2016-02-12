@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 200px;
+    margin: 300px auto;
+    border: 1px solid gray;
+    background: lightblue;
+}
+
+.hello {
+    text-align: center;
+    color: white;
+    font: 600 16px Verdana;
+}
+.bye {
+    text-align: center;
+    font: 600 16px Verdana;
+}
