@@ -74,7 +74,7 @@ for (var i = 0; i < 4; i++) {
     else if (i == 2) {
         phrase = phrase + word1 + word3;
     }
-    else if  (i == 3) {
+    else if (i == 3) {
         phrase = phrase + word1 + word2 + word1;
     }
 }
